@@ -1,3 +1,5 @@
+# pulled form the internet, not my work. Original author unknown
+
 import sys
 import time
 
